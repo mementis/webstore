@@ -13,6 +13,7 @@ public class EnvironmentVariables {
 	public static final String CREATEACC_URL = "http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation";
 	public static final String WOMEN_URL = "http://automationpractice.com/index.php?id_category=3&controller=category";
 	public static final String SCSUMM_URL = "http://automationpractice.com/index.php?controller=order";
+	public static final String CONTACT_URL = "http://automationpractice.com/index.php?controller=contact";
 	
 	public static int DRIVER_WAIT_SECONDS = 10;
 	
